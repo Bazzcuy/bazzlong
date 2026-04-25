@@ -163,9 +163,9 @@ export default function Home() {
           
           <div className="w-full max-w-4xl aspect-square md:aspect-[21/9] rounded-2xl overflow-hidden border border-white/10 shadow-[0_0_50px_rgba(0,0,0,0.5)] bg-black/50 backdrop-blur-sm">
             <iframe 
-              title="3D Watch Model" 
+              title="Christopher Ward C65 Watch" 
               className="w-full h-full"
-              src="https://sketchfab.com/models/1eb8f1cc4e65490089e8316c026b9fce/embed?autostart=1&transparent=1&ui_infos=0&ui_watermark=0&ui_theme=dark" 
+              src="https://sketchfab.com/models/53969e713bfb42f3abd94b2af8b43d5b/embed?autostart=1&transparent=1&ui_infos=0&ui_watermark=0&ui_theme=dark" 
               allow="autoplay; fullscreen; xr-spatial-tracking" 
               allowFullScreen>
             </iframe>
